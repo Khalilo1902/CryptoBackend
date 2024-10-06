@@ -4,6 +4,7 @@ import { createCoins, getAllCoins, updateCoins } from "../controllers/coinContro
 
 const router = express.Router();
 
+
 router.put("/api/v1/coins/update", updateCoins);
 router.get("/api/v1/coins/", getAllCoins);
 router.post("/api/v1/coins/create", createCoins);
