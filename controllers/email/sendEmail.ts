@@ -26,7 +26,7 @@ export const sendVerificationLinkToEmail = async (
       <div style="font-family: Arial, sans-serif; max-width: 600px; margin: auto;">
         <div style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); background-color: #333333; padding: 20px; border-radius: 10px;">
           <div style="text-align: center; margin-bottom: 20px;">
-            <img src="https://orosia.online/src/assets/images/logo.png" alt="brand" width="120" height="120"/>
+            <img src="https://khalil-dev.me/src/assets/images/logo.png" alt="brand" width="120" height="120"/>
           </div>
           <p style="font-size: 24px; font-weight: bold; color: #eab308;">Dear ${firstName},</p>
           <p style="font-size: 24px; font-weight: bold; color: #eab308;">Thank you for signing up. Please click the following link to verify your account:</p>
